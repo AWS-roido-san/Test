@@ -1,11 +1,10 @@
 package sample;
 
-public class Test {
+public class SecondCommit {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hello Japan 2024");
-		
+		System.out.println("2nd commit");
 	}
 
 }
